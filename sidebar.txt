@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oku:home|Door43 (oku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oku|d43-oku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oku/archive/master.zip|d43-oku.zip]]
+
+**Recent Changes**
+{{changes>ns = oku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oku|Ethnologue data]]
+
